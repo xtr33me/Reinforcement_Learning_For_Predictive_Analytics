@@ -13,3 +13,5 @@ This is the second of my implementations of Predictive Analysis based on what I 
 #### References
 
 Built on reading found in the following book: [Powerful Predictive Analytics with TensorFlow](https://amzn.to/2uX8Ox8)
+
+This currently uses data downloaded from https://finance.yahoo.com
